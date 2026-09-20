@@ -39,7 +39,7 @@ int main() {
 
     double den2 = std::cos(2 * b);
 
-
+    // друга зміна для Git
 
     if (std::abs(den2) < 1e-9) {
         std::cout << "Помилка: знаменник другого виразу дорівнює нулю!" << std::endl;
